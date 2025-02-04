@@ -1,0 +1,48 @@
+﻿#EXTM3U
+
+#EXTINF:-1 tvg-id="411.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="HBO Grup",HBO(play)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/210
+###http://iptv12k.com:35461/live/654321/123456/2121.m3u8
+##http://extraott.com:80/live/6945574629/7169628753/191943.m3u8
+##http://103.160.205.142:9999/stream/channelid/1231281752?profile=pass
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
+##https://astro.cdnstreamr.workers.dev/dash-wv/linear/2304/default.mpd
+#EXTINF:-1 tvg-id="414.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Family.png" group-title="HBO Grup",HBO Family (play)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+##http://extraott.com:80/live/6945574629/7169628753/400251886.m3u8
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26598.m3u8
+###EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+##http://103.160.205.142:9999/stream/channelid/881035868?profile=pass
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb
+##https://astro.cdnstreamr.workers.dev/dash-wv/linear/5053/default.mpd
+##https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5053/default.mpd
+#EXTINF:-1 tvg-id="415.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Hits.png" group-title="HBO Grup",HBO Hits (play)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+##http://yesimes.oknirvana.club:8880/live/DAALM2504/MnURN2bcRq/71037.m3u8
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
+##http://103.160.205.142:9999/stream/channelid/412045953?profile=pass
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
+##https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5055/default.mpd
+##https://astro.cdnstreamr.workers.dev/dash-wv/linear/5055/default.mpd
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="HBO Grup",HBO Signature (play)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+##http://extraott.com:80/live/6945574629/7169628753/191902.m3u8
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26597.m3u8
+##EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+##http://103.160.205.142:9999/stream/channelid/70011866?profile=pass
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
+##https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/603/default.mpd
+##https://astro.cdnstreamr.workers.dev/dash-wv/linear/603/default.mpd
+#EXTINF:-1 group-title="HBO Grup" tvg-id="" tvg-logo="https://i.imgur.com/uB76Ft0.png",CINEMAX(play)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+##http://yesimes.oknirvana.club:8880/live/DAALM2504/MnURN2bcRq/71058.m3u8
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
+##http://103.160.205.142:9999/stream/channelid/61839487?profile=pass
+##http://212.102.60.231/LIFETIME/index.m3u8
+
+
